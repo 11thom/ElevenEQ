@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="GgVm9S" name="ElevenEQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" cppLanguageStandard="17">
   <MAINGROUP id="LHwelS" name="ElevenEQ">
     <GROUP id="{461BD401-AC29-0537-285C-FE12508A55BF}" name="Source">
       <FILE id="zXxISc" name="PluginProcessor.cpp" compile="1" resource="0"
